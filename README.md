@@ -1,6 +1,6 @@
 # Fresher's Guide React App
 
-This project is a React-based web application designed to serve as a comprehensive guide for new students (freshers) joining our college.Look at the Website[Freshers Page](https://freshers-page.vercel.app/)
+This project is a React-based web application designed to serve as a comprehensive guide for new students (freshers) joining our college.Look at the Website [Freshers Page](https://freshers-page.vercel.app/)
 
 ## Getting Started
 
