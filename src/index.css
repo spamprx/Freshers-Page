@@ -370,12 +370,12 @@ button:hover {
 
 .projectTitle {
   font-size: 24px;
-  margin-bottom: 15px; /* This adds space below the title */
+  margin-bottom: 15px; 
   color: white;
 }
 
 .projectDescription {
-  margin-bottom: 20px; /* This adds space below the description */
+  margin-bottom: 20px; 
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -447,8 +447,6 @@ footer h4 {
     height: 110px;
   }
 }
-/* Contact Page Styles */
-
 
 /* Contact Page Styles */
 .contact-container {
@@ -459,7 +457,7 @@ footer h4 {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #4a6da7; /* Adjusted to match the image */
+  background-color: #4a6da7; 
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -467,7 +465,7 @@ footer h4 {
   margin-top: 0;
   margin-bottom: 30px;
   text-align: center;
-  color: #1e3a6d; /* Darker blue for the title */
+  color: #1e3a6d; /
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -482,14 +480,14 @@ footer h4 {
   padding: 15px;
   border: none;
   border-radius: 8px;
-  background-color: #5d7eb5; /* Lighter blue for input fields */
+  background-color: #5d7eb5; 
   color: #ffffff;
   font-size: 1rem;
 }
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-  color: transparent; /* Hide placeholders */
+  color: transparent; /
 }
 
 .form-group textarea {
@@ -504,7 +502,7 @@ footer h4 {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #1e3a6d; /* Darker blue for submit button */
+  background-color: #1e3a6d; 
   color: white;
   border: none;
   border-radius: 8px;
@@ -512,7 +510,7 @@ footer h4 {
 }
 
 .submit-btn:hover {
-  background-color: #152c52; /* Slightly darker on hover */
+  background-color: #152c52; 
 }
 
 
