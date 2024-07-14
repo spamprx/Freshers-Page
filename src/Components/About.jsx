@@ -31,12 +31,12 @@ const About = () => {
             <b>IIT Hyderabad</b> has an impressive placement record with <b>top companies</b> from various industries recruiting its graduates. The institute's strong industry connections, combined with its rigorous <b>academic curriculum</b>, ensure that students are well-prepared for the professional world.
             <br />
           </p>
-          <a href="Resume.pdf" download className="Fee-btn">
+          <a href="../content/Feez.pdf" download className="Fee-btn">
             <button>
               Download Fee Structure <FaFileDownload></FaFileDownload>
             </button>
           </a>
-          <a href="Resume.pdf" download className="Fee-btn">
+          <a href="../content/Academic_Calendar_Jul-Dec_2024.pdf" download className="Fee-btn">
             <button>
               Download Academic Calendar <FaFileDownload></FaFileDownload>
             </button>
