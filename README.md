@@ -9,7 +9,8 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 2. Install dependencies:
 3. Start the development server:
- The app should now be running on [http://localhost:3000](http://localhost:3000).
+
+## Available Scripts
 
 ### `npm start`
 
